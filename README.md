@@ -3,7 +3,8 @@
 - 💞️ I’m looking to collaborate on everything that is possible and on my reach
 - 📫 How to reach me Just call me here, and i'll appear when possible, ok?
 - I'm trying to learn C, C++, Java...
-- I'm interessed in Haskell and Javascript, too!
+- I'm interessed in Haskell!
+- I'm trying my luck with PHP!
 
 <!---
 GhostlyTrincket/GhostlyTrincket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
