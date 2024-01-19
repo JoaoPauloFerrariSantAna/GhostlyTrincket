@@ -3,7 +3,7 @@ Hi 👋, I’m @GhostlyTrincket
 - 💞️ I’m looking to collaborate on everything that is possible and on my reach.
 - 📫 How to reach me Just call me here, and i'll appear when possible, ok?
 - Learning currently C/C++, AWK, Perl and Lua.
-- I'm interessed in Haskell, Erlang, Elixir, Ruby and PHP!
+- I'm interessed in Haskell, Erlang, Elixir, Ruby, PHP and GML!
 
 <!---
 GhostlyTrincket/GhostlyTrincket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
